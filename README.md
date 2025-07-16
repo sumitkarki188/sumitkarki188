@@ -26,14 +26,41 @@ I'm also active in the competitive programming space, constantly improving my pr
 
 ### 🧠 Tech Stack
 
+#### 🖥 Frontend
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwind-css)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-black?style=flat-square&logo=framer)
+
+#### 🧪 Backend
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
+![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql)
+
+#### 🗄 Database & Auth
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
+![JWT](https://img.shields.io/badge/-JWT-black?style=flat-square&logo=jsonwebtokens)
+
+#### 📱 Mobile & Native
+![React Native](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react)
+
+#### 🛠 Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
+![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
+![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
+![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
+
 
 ---
 
